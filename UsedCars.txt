@@ -1,4 +1,4 @@
-Index           | SMALLINIT   | UNIQUE - AUTO_INCREMENT
+Index           | BIGINTEGER  | UNIQUE - AUTO_INCREMENT
 Chassis Number  | VARCHAR(17) | NOTNULL
 Km              | MEDIUMINIT  | NOTNULL
 Year            | DATE        | NOTNULL
