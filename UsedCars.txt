@@ -1,0 +1,16 @@
+Index           | SMALLINIT   | UNIQUE - AUTO_INCREMENT
+Chassis Number  | VARCHAR(17) | NOTNULL
+Km              | MEDIUMINIT  | NOTNULL
+Year            | DATE        | NOTNULL
+Body Style      | VARCHAR(20) | NOTNULL
+Cab Type        | VARCHAR(20) | NOTNULL
+Engine          | VARCHAR(20) | NOTNULL
+Exterior Color  | VARCHAR(20) | NOTNULL
+Interior Color  | VARCHAR(20) | NOTNULL
+Transmission    | VARCHAR(20) | NOTNULL 
+Drivetrain      | VARCHAR(20) | NOTNULL 
+Cylinders       | TINYINIT    | NOTNULL
+Fuel Type       | VARCHAR(20) | NOTNULL
+Seller type     | VARCHAR(20) | NOTNULL
+Seating         | VARCHAR(20) | NOTNULL
+Notes           | TEXT        | NULL
